@@ -1,2 +1,2 @@
-# Hello World
- curso de Git e GitHub
+# Hello, World!
+ curso de Git e GitHub.
